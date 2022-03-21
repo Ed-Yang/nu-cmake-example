@@ -10,7 +10,7 @@ Note, this mechanism is only been tested on "THIS" simple test program, use it o
 ```shell
 +------------------------+
 + VSCode w/              +                    +------------------+
-+ Cortex-Denug Extension + <--- USB (SWD) --->+ Nuvoton-PFM-M487 +    
++ Cortex-Debug Extension + <--- USB (SWD) --->+ Nuvoton-PFM-M487 +    
 +                        +                    +------------------+
 +-------------------------
 ```
