@@ -1,0 +1,8 @@
+.DS_Store
+*.hex
+*.bin
+*.o
+*.elf
+build/
+.cortex-debug.*
+.vscode/settings.json
